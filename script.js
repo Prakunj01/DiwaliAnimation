@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function () {
     const diwaliText = document.getElementById("diwalitext");
 
-    const textArray = ["Happy Diwali!!!!", "Wishing you joy and prosperity", "Let the light shine bright"];
+    const textArray = ["Happy Diwali!!!", "Wishing you joy and prosperity", "Let the light shine bright"];
 
     let index = 0;
     let charIndex = 0;
